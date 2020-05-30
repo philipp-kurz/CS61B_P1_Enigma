@@ -10,4 +10,5 @@ The code is based on skeleton code from the class. Project was completed using t
 
 ---
 Program uses settings and text from the left and cyphers into text on the right.
+
 ![enigma](https://user-images.githubusercontent.com/54779918/83333220-bc3f8280-a29f-11ea-9d61-22a73125fcfe.png)
